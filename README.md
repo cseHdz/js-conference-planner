@@ -1,1 +1,1 @@
-# js-conference-planner
+# coding-project-template
